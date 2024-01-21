@@ -1,5 +1,5 @@
 # Spring Boot MicroServices
-With the help of this repository you can run microservices using Spring Boot, Spring Cloud, Spring OAuth 
+With the help of this repository you can run microservices using Spring Boot
 
 
 The application consists of 6 different services
@@ -20,8 +20,7 @@ The application consists of 6 different services
 ## <a name="project-overview"></a>Project Overview
 * This project that mocks an e-commerce API .
 
-* This project uses KAFKA broker to communicate between the microservices.
-
+* This project uses KAFKA 
 
 
 ## <a name="project-run"></a>How To Run ?
